@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+.top{
+    background-color: #F5F5F6;;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    margin-bottom: 56px;
+}
+img{
+    width: 89px;
+height: 23px;
+margin-left: 100px;
+margin-top: 15px;
+margin-bottom: 12px;
+}
+.text{
+    color: #959BA4;
+margin-top: 17px;
+margin-bottom: 14px;
+margin-right: 33px;
+font-family: Roboto;
+font-size: 11px;
+font-style: normal;
+font-weight: 500;
+}
+.one{
+margin: 17px 33px 14px 64px;
+    color: #000;
+    display: flex;
+width: 44px;
+height: 19px;
+justify-content: center;
+font-family: Roboto;
+font-size: 11px;
+font-style: normal;
+font-weight: 500;
+}
+.last{
+    width: 58px;
+height: 26px;
+color: #000;
+background-color:white;
+text-align: center;
+font-family: Roboto;
+font-size: 11px;
+font-style: normal;
+font-weight: 500;
+margin: 9px 50px 8px 430px;
+justify-content: center;
+padding-top: 10px;
+}
+h1{
+    width: 587px;
+height: 32px;
+color: #000;
+font-family: Roboto;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+margin: 56px 312px 33px 260px;
+line-height: normal;
+}
+.left1{
+    display: flex;
+width: 120px;
+height: 28px;
+color: #9F9F9F;
+font-family: Roboto;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+margin-bottom: 0px;
+margin-top: 33px;
+}
+button{
+width: 49px;
+height: 28px;
+flex-direction: column;
+color: #C6C6C6;
+background-color: white;
+font-weight: 500;
+font-family: Roboto;
+font-size: 12px;
+padding:5px 11px;
+margin-right: -5px;
+    border: 1px solid grey
+}
+.left{
+    margin: 2px 125px 21px 261px;
+}
+.right1{
+    display: flex;
+    width: 120px;
+    height: 28px;
+    color: #9F9F9F;
+    font-family: Roboto;
+    font-size: 12px;
+    font-style: normal;
+   margin-bottom: 0px;
+   margin-top: 33px;
+}
+.right{
+    margin: 2px 538px 21px 0px;
+
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+}
+input{
+    height: 50px;
+    margin-top: 5px;
+    font-size: large;
+    width: 180px;
+    border: 0;
+    outline: none;
+}
+.active1{
+    background-color: blueviolet;
+}
+.active2{
+    background-color: blueviolet;
+}
+.box{
+    margin-top: 18px;
+    border: 1px solid grey;
+    height: 105px;
+    width: 190px;
+}
+

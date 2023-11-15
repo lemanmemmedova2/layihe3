@@ -116,10 +116,7 @@ input{
     border: 0;
     outline: none;
 }
-.active1{
-    background-color: blueviolet;
-}
-.active2{
+.active{
     background-color: blueviolet;
 }
 .box{
@@ -128,4 +125,9 @@ input{
     height: 105px;
     width: 190px;
 }
-
+#one{
+    color:grey;
+}
+#two{
+    color: grey;
+}
